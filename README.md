@@ -3,7 +3,7 @@
   <p> 안녕하세요! </p>
 </div>
 
-<img align="center" height="470" src="https://imgur.com/a/syzYJqe.png" />
+![Image](https://github.com/user-attachments/assets/79a627c1-37db-4ac6-ad8c-296c15867111.gif)
 
 <div align="center" width="100%">
   
@@ -17,5 +17,4 @@
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larami06&theme=date_night)
   | :-: |
-<br>
-<br>
+</div> 
